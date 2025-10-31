@@ -6,13 +6,13 @@ Full-Stack Developer | AIML Engineer | Cloud & Generative AI Enthusiast
 
 ### 👨‍💻 About Me
 
-I'm a passionate and results-driven AIML engineering student from BNM Institute of Technology, specializing in building scalable, full-stack applications. I have hands-on experience in cloud technologies, RESTful API development, and leveraging Generative AI to solve complex problems.
+Just an engineer trying to get computers to see, talk, and think... hopefully before they get closer to IRobot or Terminator. And yeah, AI is crazy and and I am going with it 👍.
 
-- 🔭 I’m currently an **IT Intern at Version 1**, where I'm designing and developing a medical document translation service using **AWS Bedrock and Django**.
-- 🌱 I’m currently learning more about **OCI Cloud architecture**.
-- 💬 Ask me about **Python, Java, SpringBoot, ReactJS, and AWS**.
-- 📫 How to reach me: **danushtejyadav@gmail.com** or on [LinkedIn](https://linkedin.com/in/danush-tej-yadav-s/).
-
+- 🔭 Adding some value as an Intern @Version1 as of now as.
+- 🔐 Worked with the security team @DeltaExchange, so yeah, we can talk about soem security stuff ☕.
+- 🌱 Focusing on enterprise-grade technologies and cloud-native development.
+- 💬 Ask me about: Java, Python, SpringBoot, or why my GenAI projects sometimes sound like a philosophy major.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/danush-tej-yadav-s/) or [mail](danushtejyadav@gmail.com)
 ---
 
 ### 🛠️ My Tech Stack
@@ -26,6 +26,7 @@ I'm a passionate and results-driven AIML engineering student from BNM Institute 
 
 #### Technologies & Frameworks
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
