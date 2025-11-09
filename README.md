@@ -1,4 +1,4 @@
-# Hi, I'm Danush Tej Yadav S 👋
+# Hi, I'm Danush Tej Yadav S 
 You can call me Danush, or anything you like !
 
 Full-Stack Developer | AIML Engineer | Cyber Security Enthusiast | Generative AI Wrangler
@@ -9,11 +9,11 @@ Full-Stack Developer | AIML Engineer | Cyber Security Enthusiast | Generative AI
 
 Just an engineer trying to get computers to see, talk, and think... hopefully before they get closer to IRobot or Terminator. And yeah, AI is crazy and and I am going with it 👍.
 
-- 🔭 Adding some value as an Intern @Version1 as of now as.
-- 🔐 Worked with the security team @DeltaExchange as an Intern.
-- 🌱 Focusing on enterprise-grade technologies and cloud-native development.
-- 💬 Ask me about: Java, Python, SpringBoot, or why my GenAI projects sometimes sound like a philosophy major.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/danush-tej-yadav-s/) or danushtejyadav@gmail.com
+-  Adding some value as an Intern @Version1 as of now as.
+-  Worked with the security team @DeltaExchange as an Intern.
+-  Focusing on enterprise-grade technologies and cloud-native development.
+-  Ask me about: Java, Python, SpringBoot, or why my GenAI projects sometimes sound like a philosophy major.
+-  How to reach me: [LinkedIn](https://linkedin.com/in/danush-tej-yadav-s/) or danushtejyadav@gmail.com
 ---
 
 ### 🛠️ My Tech Stack
