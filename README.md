@@ -1,5 +1,5 @@
 # 💫 About Me:
-Adding some value as an Intern @Version1 as of now as.<br>Worked with the security team @DeltaExchange as an Intern.<br>Focusing on enterprise-grade technologies and cloud-native development.<br>Ask me about: Java, Python, SpringBoot, or something fun.
+Adding some value as an Intern @Version1 as of now.<br>Worked with the security team @DeltaExchange as an Intern.<br>Focusing on enterprise-grade technologies and cloud-native development.<br>Ask me about: Java, Python, SpringBoot, or something fun.
 
 
 ## 🌐 Socials:
